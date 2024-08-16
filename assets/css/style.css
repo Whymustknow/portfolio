@@ -636,7 +636,7 @@ footer{
         flex-direction: column; 
         display: flex;
         flex-wrap: wrap; /* Mengatur input field agar bisa wrap ke baris baru jika tidak muat */
-        gap: 20px;
+        gap: 30px;
         width: 100%;
     }
     .input-field{

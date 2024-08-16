@@ -463,7 +463,7 @@ h3{
 }
 .input-field,
 textarea{
-    width: calc(50% - 5px); /* Menyesuaikan lebar input field dengan gap 20px antar elemen */
+    width: 200px; /* Menyesuaikan lebar input field dengan gap 20px antar elemen */
     height: 55px; /* Tinggi standar untuk input field */
     background: transparent;
     border: 2px solid #AAA;
